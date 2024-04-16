@@ -61,7 +61,7 @@
   "dependencies": {
     "commander": "^7.0.0",
     "jsonfile": "^6.1.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "mkdirp": "^1.0.4",
     "pg-structure": "^7.4.0",
     "prompts": "^2.4.0"
