@@ -63,7 +63,7 @@
     "jsonfile": "^6.1.0",
     "lodash": "^4.17.20",
     "mkdirp": "^1.0.4",
-    "pg-structure": "^7.4.0",
+    "pg-structure": "^7.15.2",
     "prompts": "^2.4.0"
   }
 }
